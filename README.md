@@ -16,6 +16,24 @@ It provides RESTful APIs for handling data and business logic.
 
 The project is organized as follows:
 
+```plaintext
+📦 java-spring-boot-backend
+ ┣ 📂 src
+ ┃ ┣ 📂 main
+ ┃ ┃ ┣ 📂 java/k24/op1/dogbackend
+ ┃ ┃ ┃ ┣ 📂 controller
+ ┃ ┃ ┃ ┣ 📂 api
+ ┃ ┃ ┃ ┣ 📂 domain
+ ┃ ┃ ┃ ┣ 📂 service
+ ┃ ┃ ┃ ┣ 📂 web
+ ┃ ┃ ┃ ┣ 📂 resources
+ ┃ ┃ ┣ 📂 test/java/k24/op1/dogbackend
+ ┣ 📜 pom.xml
+ ┣ 📜 ReadMe
+ ┗📜 Dockerfile
+
+
+
 ## Teamwork Insights
 
 As mentioned earlier, this project was carried out as a team effort. The collaborative nature of this project offered valuable insights and experiences, including:
