@@ -12,27 +12,6 @@ It provides RESTful APIs for handling data and business logic.
 - **Scalable Architecture**: Implement a scalable and maintainable architecture using Spring Boot.
 - **Secure and Performant**: Ensure the backend is secure and performs efficiently under load.
 
-## Project Structure
-
-The project is organized as follows:
-
-```plaintext
-📦 java-spring-boot-backend
- ┣ 📂 src
- ┃ ┣ 📂 main
- ┃ ┃ ┣ 📂 java/k24/op1/dogbackend
- ┃ ┃ ┃ ┣ 📂 controller
- ┃ ┃ ┃ ┣ 📂 api
- ┃ ┃ ┃ ┣ 📂 domain
- ┃ ┃ ┃ ┣ 📂 service
- ┃ ┃ ┃ ┣ 📂 web
- ┃ ┃ ┃ ┣ 📂 resources
- ┃ ┃ ┣ 📂 test/java/k24/op1/dogbackend
- ┣ 📜 pom.xml
- ┣ 📜 ReadMe
- ┗📜 Dockerfile
-
-
 
 ## Teamwork Insights
 
@@ -64,3 +43,23 @@ To set up the project locally, follow these steps:
    ```sh
    git clone https://github.com/your-username/java-spring-boot-backend.git
    cd java-spring-boot-backend
+
+## Project Structure
+The project is organized as follows:
+
+```plaintext
+📦 java-spring-boot-backend
+ ┣ 📂 src
+ ┃ ┣ 📂 main
+ ┃ ┃ ┣ 📂 java/k24/op1/dogbackend
+ ┃ ┃ ┃ ┣ 📂 controller
+ ┃ ┃ ┃ ┣ 📂 api
+ ┃ ┃ ┃ ┣ 📂 domain
+ ┃ ┃ ┃ ┣ 📂 service
+ ┃ ┃ ┃ ┣ 📂 web
+ ┃ ┃ ┃ ┣ 📂 resources
+ ┃ ┃ ┣ 📂 test/java/k24/op1/dogbackend
+ ┣ 📜 pom.xml
+ ┣ 📜 ReadMe
+ ┗📜 Dockerfile
+
