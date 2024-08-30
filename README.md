@@ -32,6 +32,7 @@ The project is organized as follows:
  ┣ 📜 ReadMe
  ┗📜 Dockerfile
 
+
 ## Teamwork Insights
 
 As mentioned earlier, this project was carried out as a team effort. The collaborative nature of this project offered valuable insights and experiences, including:
@@ -43,7 +44,7 @@ As mentioned earlier, this project was carried out as a team effort. The collabo
 
 Overall, this team-based approach not only achieved our project goals but also significantly contributed to our growth as developers and our understanding of real-world software development practices.
 
-### Using Scrum Methods
+## Using Scrum Methods
 
 As part of the project, we implemented well-known Scrum methods to improve our development process:
 
