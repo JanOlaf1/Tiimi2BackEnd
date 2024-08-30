@@ -31,7 +31,7 @@ The project is organized as follows:
  ┣ 📜 pom.xml
  ┣ 📜 ReadMe
  ┗📜 Dockerfile
- 
+
 ## Teamwork Insights
 
 As mentioned earlier, this project was carried out as a team effort. The collaborative nature of this project offered valuable insights and experiences, including:
@@ -54,7 +54,6 @@ As part of the project, we implemented well-known Scrum methods to improve our d
 
 Overall, using Scrum methods significantly enhanced our ability to manage the project efficiently, deliver features on time, and adapt to changes dynamically.
 
-
 ## Installation
 
 To set up the project locally, follow these steps:
@@ -63,4 +62,3 @@ To set up the project locally, follow these steps:
    ```sh
    git clone https://github.com/your-username/java-spring-boot-backend.git
    cd java-spring-boot-backend
-"hidden" login passcodes are: admin, admin
